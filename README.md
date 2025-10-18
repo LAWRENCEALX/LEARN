@@ -11,7 +11,7 @@ Coding is like learning a new language — but instead of speaking to people, I 
 - I can turn my ideas into reality, one line of code at a time! 🎨
 
 ## My Goals
-1. Learn the basics of **C,C# and Jvascript** 🐍
+1. Learn the basics of **C,C# and Javascript**
 2. Build my first **interactive project** 🎮
 3. Explore **web development** 🌐
 4. Keep improving and never stop learning! 📚
