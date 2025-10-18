@@ -1,0 +1,4 @@
+#!/bin/bash
+#prints file name of a file in another directory
+
+file /tmp/iamfile

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#create symbolic link to file.txt with mylink.txt
+
+ln -s /LEARN/tmp/file.txt mylink.txt

@@ -1,0 +1,2 @@
+#!/bin/bash
+mv /tmp/fish.root /tmp/my_dir
